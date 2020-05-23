@@ -7,6 +7,6 @@ Given 5 dataset: geolocation, products, product name translations, customers, ge
 3. Promotion Timing: To determined the best time to promote products.
 4. Customer Behaviour: To classify each customer to specific segment to treat customer differently based on their segmentation.
 5. Popular Product: To determined which product have already popular so the company do not need to promote them anymore but to promote other unpopular product.
-6. Sentiment Analysis: TO determined whether the product reviews show bad or good compliment.
+6. Sentiment Analysis: To determined whether the product reviews show bad or good compliment.
 
-After several analysis, I created a product recommender system to give recommendation to customer after they purchased a product. This recommendation product will be similar with the previous purchased product.
+After several analysis, I created a product recommender system to give recommendation to customer after they purchased a product. This recommendation product will have high similarity with the previous purchased product.
